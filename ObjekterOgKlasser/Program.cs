@@ -35,6 +35,10 @@ namespace ObjekterOgKlasser
             betterPerson2.Alder = 20;
             Console.WriteLine(betterPerson2);
 
+          /*  betterPerson2.alder = 3;
+            Console.WriteLine(betterPerson2);*/
+
+
 
 
 
